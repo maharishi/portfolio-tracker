@@ -8,5 +8,10 @@
     "group": "A",
     "unitcost": "120.00",
     "qty": 2
+  },
+  "TSLA": {
+    "group": "A",
+    "unitcost": "300.00",
+    "qty": 3
   }
 }
