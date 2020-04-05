@@ -1,0 +1,12 @@
+{
+  "MA": {
+    "group": "A",
+    "unitcost": "200.00",
+    "qty": 1
+  },
+  "MSFT": {
+    "group": "A",
+    "unitcost": "120.00",
+    "qty": 2
+  }
+}
